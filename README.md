@@ -2,7 +2,7 @@
 
 A classic implementation of Tetris using Python and Pygame. This game features all the standard Tetris mechanics along with modern features like ghost pieces and a next-piece preview.
 
-![Tetris Game Screenshot](screenshots/tetris.png) *(You'll need to add a screenshot later)*
+![Tetris Game Screenshot](screenshots/tetris.png)
 
 ## Features
 
